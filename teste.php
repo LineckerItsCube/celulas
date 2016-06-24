@@ -1,9 +1,3 @@
 <?php
-
-teste
-
-Linecker
-
-teste
-
+echo 'Linecker';
 ?>
