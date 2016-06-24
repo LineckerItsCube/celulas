@@ -1,5 +1,9 @@
+<?php
+
 teste
 
 B
 
 teste
+
+?>
