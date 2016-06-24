@@ -1,3 +1,3 @@
 <?php
-echo 'Linecker';
+echo 'Linecker2';
 ?>
